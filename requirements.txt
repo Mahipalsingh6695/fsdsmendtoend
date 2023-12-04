@@ -2,5 +2,12 @@ pandas
 scikit-learn
 numpy
 ipykernel
+seaborn
 
--e .
+ipykernel
+Flask
+#this is more stable version
+mlflow==2.2.2
+dvc
+
+#pip-e .
