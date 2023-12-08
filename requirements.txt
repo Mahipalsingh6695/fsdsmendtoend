@@ -1,15 +1,11 @@
 pandas
 scikit-learn
 numpy
-ipykernel
 seaborn
-src
-
-
 ipykernel
 Flask
 #this is more stable version
 mlflow==2.2.2
 dvc
 
--e .
+#-e .
